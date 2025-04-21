@@ -32,7 +32,9 @@ A powerful selfbot for Discord, made for personal use and utility. This bot uses
 - Python 3.8+
 - Required libraries (install with pip):
   ```bash
-  pip install discord.py colorama
+  pip install discord.py
+  pip install discord.py==1.7.3
+  pip install colorama
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
